@@ -33,18 +33,18 @@ h3 {
   font-weight: 400;
   margin: 5px;
   padding: 5px;
-  color: #D34F63;
+  color: #000000;
 }
 
 h3 a {
   font-weight: normal;
-  color: #D34F63;
+  color: #000000;
   text-decoration: none;
 }
 
 h3 a:hover {
   font-weight: bold;
-  color: #D34F63;
+  color: #000000;
 }
 
 @media screen and (max-width: 480px){
@@ -113,7 +113,7 @@ h2 {
 }
 
 .container a:hover {
-  color: #D34F63;
+  color: #000000;
   font-weight: bold;
 }
 
