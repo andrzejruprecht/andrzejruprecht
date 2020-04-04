@@ -11,20 +11,20 @@ body {
 }
 
 footer {
-  background-color: #D8E9FO;
+  background-color: #D8E9F0;
 }
 
 h1 {
   font-size: 70px;
   font-weight: 900;
-  color: #EB586F;
+  color: #D34F63;
 }
 
 h2 {
   font-size: 30px;
   font-weight: 400;
   line-height: 25px;
-  color: #EB586F;
+  color: #D34F63;
 }
 
 h3 {
@@ -33,18 +33,18 @@ h3 {
   font-weight: 400;
   margin: 5px;
   padding: 5px;
-  color: #EB586F;
+  color: #D34F63;
 }
 
 h3 a {
   font-weight: normal;
-  color: #EB586F;
+  color: #D34F63;
   text-decoration: none;
 }
 
 h3 a:hover {
   font-weight: bold;
-  color: #EB586F;
+  color: #D34F63;
 }
 
 @media screen and (max-width: 480px){
@@ -62,7 +62,7 @@ h2 {
 
 .title {
   font-size: 70px;
-  color: #EB586F;
+  color: #D34F63;
   font-weight: 900;
   line-height: 50px;
   padding-left: 6px;
@@ -92,9 +92,9 @@ h2 {
 }
 
 .container {
-  background: #D8E9FO;
-  color: #EB586F;
-  border: 4px solid #EB586F;
+  background: #D8E9F0;
+  color: #D34F63;
+  border: 4px solid #D34F63;
   border-radius: 8px;
   margin-bottom: 15px;
   font-weight: normal;
@@ -113,14 +113,14 @@ h2 {
 }
 
 .container a:hover {
-  color: #EB586F;
+  color: #D34F63;
   font-weight: bold;
 }
 
 .containerbutton {
-  background: #D8E9FO;
-  color: #EB586F;
-  border: 2px solid #EB586F;
+  background: #D8E9F0;
+  color: #D34F63;
+  border: 2px solid #D34F63;
   border-radius: 15px;
   padding-top: 5px;
   padding-bottom: 2px;
@@ -155,9 +155,9 @@ h2 {
 }
 
 .myform .entry {
-  background: #D8E9FO;
-  color: #EB586F;
-  border: 3px solid #EB586F;
+  background: #D8E9F0;
+  color: #D34F63;
+  border: 3px solid #D34F63;
   border-radius: 8px;
   margin-bottom: 15px;
   height: 30px;
@@ -172,9 +172,9 @@ h2 {
 }
 
 .myform .submit {
-  background: #D8E9FO;
-  color: #EB586F;
-  border: 3px solid #EB586F;
+  background: #D8E9F0;
+  color: #D34F63;
+  border: 3px solid #D34F63;
   border-radius: 8px;
   height: 30px;
   width: 100px;
@@ -209,13 +209,13 @@ h2 {
 {
   display: inline-block;
   width: 40%;
-  border: 3px solid #EB586F;
+  border: 3px solid #D34F63;
   text-align: center !important;
   vertical-align: middle !important;
   font-weight: 400;
-  background-color: #EB586F;
+  background-color: #D34F63;
   border-radius: 8px;
-  color: #EB586F !important;
+  color: #D34F63 !important;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 5px;
@@ -230,12 +230,12 @@ h2 {
 
 .button a
 {
-  color: #EB586F;
+  color: #D34F63;
 }
 
 .button a:hover
 {
-  color: #EB586F !important;
+  color: #D34F63 !important;
   font-weight: bold;
 }
 
@@ -245,5 +245,5 @@ h2 {
   font-weight: 600;
   background-color: #ffffff;
   border-radius: 8px;
-  color: #EB586F !important;
+  color: #D34F63 !important;
 }
