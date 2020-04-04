@@ -33,18 +33,18 @@ h3 {
   font-weight: 400;
   margin: 5px;
   padding: 5px;
-  color: #000000;
+  color: #D34F63;
 }
 
 h3 a {
   font-weight: normal;
-  color: #000000;
+  color: #D34F63;
   text-decoration: none;
 }
 
 h3 a:hover {
   font-weight: bold;
-  color: #000000;
+  color: #D34F63;
 }
 
 @media screen and (max-width: 480px){
@@ -93,7 +93,7 @@ h2 {
 
 .container {
   background: #D8E9F0;
-  color: #000000;
+  color: #D34F63;
   border: 4px solid #D34F63;
   border-radius: 8px;
   margin-bottom: 15px;
@@ -106,7 +106,7 @@ h2 {
   margin: 5px;
   font-weight: 500;
   font-weight: normal;
-  color: #000000;
+  color: #D34F63;
 }
 
 .container a {
@@ -114,7 +114,7 @@ h2 {
 }
 
 .container a:hover {
-  color: #000000;
+  color: #D34F63;
   font-weight: bold;
 }
 
