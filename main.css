@@ -38,13 +38,13 @@ h3 {
 
 h3 a {
   font-weight: normal;
-  color: #D34F63;
+  color: #007CE1;
   text-decoration: none;
 }
 
 h3 a:hover {
   font-weight: bold;
-  color: #D34F63;
+  color: #111111;
 }
 
 @media screen and (max-width: 480px){
